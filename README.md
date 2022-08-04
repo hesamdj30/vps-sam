@@ -1,41 +1,36 @@
-## If Error Showed
+<p align="center">
+<img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
+</p>
+<p align="center">
+<a href="#"><img title="VPS/RDP GRÁTIS" src="https://img.shields.io/badge/VPS/RDP GRÁTIS-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Biiuh"><img title="Criador" src="https://img.shields.io/badge/Criador-BiiuhYT-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
 
-Just Download This Whole repository And make new repo in your GitHub account and upload all the files
 
-# Video Guide
+#### Tutorial YouTube
 
-https://t.me/Oshekher/27 
+* Link: `https://www.youtube.com/c/HACKMTH`
 
-Credit: netslutter & lrtanvir for the video 😁
+#### Tutorial PT/BR
+1. Obrigatório criar a conta em: `https://dashboard.ngrok.com/signup`
+2. Ir nas "Settings" depois em "Secrets" e criar um repositorio secreto com o nome `NGROK_AUTH_TOKEN`
+3. Coloque o token de: `https://dashboard.ngrok.com/get-started/your-authtoken` no repositorio secreto
+4. Vai em "Actions" e procure "BiiuhRDP".
 
-# Free RDP 6 HOURS
+#### Tutorial EN
+1. Account must be created at: `https://dashboard.ngrok.com/signup`
+2. Go to "Settings" then "Secrets" and create a secret repository named `NGROK_AUTH_TOKEN`
+3. Place the token: `https://dashboard.ngrok.com/get-started/your-authtoken` in the secret repository
+4. Go to "Actions" and look for "BiiuhRDP".
 
-it's all free, don't be stingy ⭐️ yes: D
+#### Config.
+- IP: `https://dashboard.ngrok.com/endpoints/status`
+- User: `runneradmin`
+- Senha/Password: `Biiuh2021`
+- Tempo/Time: `6 horas/hours`
 
-### HOW TO CREATE Oshekher-RDP
-```
-> Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
-
-> visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN
-
-> Inside this Repo Go to Settings> Secrets> New repository secret
-
-> Fill in the Name: Enter NGROK_AUTH_TOKEN
-
-> Fill in Value: Visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste in the value
-
-> Press Add secret 
-
-> Go to Action> CI> Run workflow
-
-> Refresh Web and go to CI> build
-
-> Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
-```
-### WARN
-
-THIS IS ONLY FOR EDUCATIONAL PURPOSES
-
-DON'T USE FOR MINING OR ILLEGAL USE
-
-DON'T RECODE THIS SC!
+#### Config. PC
+- RAM: `7gb`
+- Cores: `2`
